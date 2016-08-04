@@ -1,0 +1,42 @@
+_repo: Domestic-Peace_1411
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+  - agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: 'Translation of: La paix de menage'
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: Domestic Peace
+url: http://www.gutenberg.org/ebooks/1411
